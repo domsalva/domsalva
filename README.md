@@ -1,43 +1,16 @@
-<p align="center">
-	<br>
-	<a href="https://tachiyomi.org">
-		<img src="./.github/assets/logo.png" width="90"/>
-	</a>
-</p>
+## 👻 Sal, Ado, Boo
 
-<h1 align="center">Tachiyomi <a href="#">Website</a></h1>
-<h3 align="center">Full-featured reader</h3>
-<p align="center">Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.</p>
+![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![SASS](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
 
-<p align="center">
-	<a title="Netlify deployment" href="https://app.netlify.com/sites/tachiyomiorg/deploys">
-		<img src="https://api.netlify.com/api/v1/badges/95d9e2f8-42ae-4e40-8c99-82b870c51e1a/deploy-status">
-	</a>
-	<br>
-	<br>
-</p>
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
-<h3 align="center">Contributing</h3>
-
-<p align="center">
-	<a href="./CODE_OF_CONDUCT.md">Code of conduct</a>
-	·
-	<a href="./CONTRIBUTING.md">Contributing guide</a>
-	·
-	<a href="https://tachiyomi.org/sandbox/style-guide/">Project style guide</a>
-</p>
-
-<p align="center">Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
-
-<h3 align="center">License</h3>
-
-<pre align="center">Copyright © 2023 The Tachiyomi Open Source Project<br><br>This Source Code Form is subject to the terms of the Mozilla Public<br>License, v. 2.0. If a copy of the MPL was not distributed with this<br>file, You can obtain one at http://mozilla.org/MPL/2.0/.</pre>
-
-<h3 align="center">Credits</h3>
-
-<p align="center">Thank you to all the people who have already contributed!</p>
-<p align="right">
-	<a href="https://github.com/tachiyomiorg/tachiyomi/graphs/contributors">
-		<img src="https://contrib.rocks/image?repo=tachiyomiorg/website" width="800"/>
-	</a>
-</p>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=fff)
